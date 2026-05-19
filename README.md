@@ -5,6 +5,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B)
 
 🔗 **Acesse o App Preditivo Online:** [fiap-tech-challenge-5-01.streamlit.app](https://fiap-tech-challenge-5-01.streamlit.app/)
+💻 **Repositório do Projeto:** [github.com/mrcl-crz/fiap-tech-challenge-5](https://github.com/mrcl-crz/fiap-tech-challenge-5)
 
 Projeto de análise de dados educacionais e desenvolvimento de um modelo preditivo de Machine Learning para a **Associação Passos Mágicos**, desenvolvido como Tech Challenge (Fase 5) da pós-graduação da FIAP.
 
